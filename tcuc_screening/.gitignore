@@ -1,0 +1,29 @@
+# Python / venv
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Outputs / experiments
+data_processed/
+datasets/
+results/
+_checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.parquet
+*.log
+
+# Exclude this specific local doc as requested
+transformer_vs_lstm_performance.md
