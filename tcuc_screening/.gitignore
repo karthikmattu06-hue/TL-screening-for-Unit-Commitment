@@ -30,3 +30,4 @@ transformer_vs_lstm_performance.md
 
 # External dataset (downloaded from groupoasys)
 tcuc_screening/tcuc_screening/data_ieee96/
+tcuc_screening/tcuc_screening/data_ieee96/**
